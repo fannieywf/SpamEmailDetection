@@ -7,4 +7,4 @@ The following workflow is applied to Spam Email Detection:
 - Suggestions
 
 Please go through the PowerPoint presentation in PDF for details.
-For Code and Documentation, please read the .ipynb file.
+For Code and Documentation, please read the .ipynb Notebook file.
